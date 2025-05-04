@@ -1,4 +1,4 @@
-package task6;
+package javalearningprojects.src.task6;
 
 public class Person {
 	private String name;
