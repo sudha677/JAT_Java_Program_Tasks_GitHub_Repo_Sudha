@@ -1,4 +1,4 @@
-package javalearningprojects.src.task6;
+package task6;
 
 public class Employee {
 	private int ID;
